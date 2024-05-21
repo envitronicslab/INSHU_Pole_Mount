@@ -1,5 +1,5 @@
 # Summary
-​This is a 3D designed pole mount from EnviTronics Lab for the INSHU LWS (leaf wetness sensor). This design allows for mounting the sensor to a pole or wall at an angle to imitate an actual leaf.
+​This is a 3D designed pole mount from EnviTronics Lab for the [INSHU LWS (leaf wetness sensor)](https://www.envitronicslab.com/inshu-lws). This design allows for mounting the sensor to a pole or wall at an angle to imitate an actual leaf.
 ​
 # Print Settings
 To achieve the best results following 3D printing settings are recommended:
